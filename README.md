@@ -43,7 +43,7 @@ This project **should not be considered production-ready** from a security stand
 
 ## 🛠️ Tech Stack
 - Backend: Java / Spring Boot
-- Database: Spring Boot
+- Database: MySQL
 
 ---
 
