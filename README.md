@@ -27,7 +27,7 @@ FlexCart follows a conventional layered architecture: Controllers expose REST en
 
 ![FlexCart architecture](docs/images/architecture.png)
 
-*Layered architecture — see [Database Design](docs/database-design.md) for request-flow detail.*
+*Layered architecture — see [Database Design](/FlexCart%20Documentation%20Package/docs/database-design.md) for request-flow detail.*
 
 ## Core Modules
 
@@ -44,8 +44,8 @@ FlexCart follows a conventional layered architecture: Controllers expose REST en
 
 Full technical reference lives in `/docs`:
 
-- 📘 **[API Reference](docs/api-reference.md)** — every REST endpoint, grouped by module
-- 🗄️ **[Database Design](docs/database-design.md)** — entity-relationship diagram and table-by-table schema notes
+- 📘 **[API Reference](/FlexCart%20Documentation%20Package/docs/api-reference.md)** — every REST endpoint, grouped by module
+- 🗄️ **[Database Design](/FlexCart%20Documentation%20Package/docs/database-design.md)** — entity-relationship diagram and table-by-table schema notes
 
 ## Known Issues & Roadmap
 
