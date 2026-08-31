@@ -2,7 +2,7 @@
 
 All endpoints are versioned under `/api/v1`. Request/response bodies use the DTOs in the `dto` package (Request/Response pairs per resource); bean-validation errors are surfaced as HTTP 400 with a field → message map, via `ValidationExceptionHandler`.
 
-← [Back to README](../README.md)
+← [Back to README](../../README.md)
 
 ## Client — `/api/v1/client`
 
