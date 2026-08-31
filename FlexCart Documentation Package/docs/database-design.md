@@ -1,6 +1,6 @@
 # Database Design
 
-← [Back to README](../../../README.md)
+← [Back to README](../../README.md)
 
 ## Request flow
 
