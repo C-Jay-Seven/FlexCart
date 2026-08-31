@@ -25,7 +25,7 @@ Any client account can act as a buyer (owns a cart, places orders, leaves review
 
 FlexCart follows a conventional layered architecture: Controllers expose REST endpoints and are annotated per-class with `@CrossOrigin` for browser access, Services (each with an interface + implementation pair) hold business logic, DTO Mapper classes convert between entities and Request/Response DTOs, and Spring Data JPA repository interfaces perform persistence. A single `ValidationExceptionHandler` (`@RestControllerAdvice`) centralizes bean-validation error formatting.
 
-![FlexCart architecture](docs/images/architecture.png)
+![FlexCart architecture](/FlexCart%20Documentation%20Package/docs/images/architecture.png)
 
 *Layered architecture — see [Database Design](/FlexCart%20Documentation%20Package/docs/database-design.md) for request-flow detail.*
 
